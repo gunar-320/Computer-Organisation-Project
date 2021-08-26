@@ -1,3 +1,10 @@
+### DESIGNING A SIMPLE ASSEMBLER AND A SIMULATOR
+### CO ASSIGNMENT FOR SEMESTER -2 | INDRAPRASTHA INSTITUTE OF INFORMATION TECHNOLOGY
+Group 22
+Group Members - 
+1)Jatin Kumar Sharma {Roll Number - 2020563}
+2)Gunar Sindhwani {Roll Number - 2020199}
+3)Aryan Govil {Roll Number - 2020182}
 # CO M21 Assignment
 Starter repository for Computer Organization, Monsoon 2021 semester, assignment at IIITD
 
