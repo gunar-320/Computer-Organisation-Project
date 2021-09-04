@@ -250,6 +250,8 @@ def main():
 
         # halt
         if opcode == "10011":
+            #Added a change in Simulator File Here
+            RF[7]=0
             RF_dump()
             PC += 1
             break
